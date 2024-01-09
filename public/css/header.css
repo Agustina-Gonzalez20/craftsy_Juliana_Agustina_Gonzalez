@@ -1,0 +1,16 @@
+.fondo{
+    background-color:var(--rojo);
+    padding: 5px 10px ;
+    }
+    
+    .logo{
+        display: inline-block;
+    }
+    
+    .burger-menu{
+        border: solid 1px ;
+        padding: 5px;
+        display:inline-block;
+        color:var(--blanco);
+        text-align: top;
+    }
